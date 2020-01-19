@@ -10,14 +10,15 @@ all_dataset_testing folder alone is sufficient to run the testing. We only need 
 all_dataset_post_processing folder contains required script for generating the final results from the reconstruction cost. This folder contains all of the ground truth and persistence1d tool for computing local minimas from the reconstruction cost plots. process_conv_costs_supps_v3.m file is the starting point.
 
 Please cite the following papers if you use Avenue, UCSD Ped1 and Ped2, and Subway datasets.
+=====
 
-#### Avenue:
+### Avenue:
 C. Lu, J. Shi, and J. Jia, “Abnormal event detection at 150 fps in matlab,” in ICCV, 2013, pp. 2720–2727.
 
-#### UCSD Ped1 and Ped2:
+### UCSD Ped1 and Ped2:
 V. Mahadevan, W. Li, V. Bhalodia, and N. Vasconcelos, “Anomaly detection in crowded scenes,” in CVPR, 2010, pp. 1975–1981.
 
-#### Subway:
+### Subway:
 A. Adam, E. Rivlin, I. Shimshoni, and D. Reinitz, “Robust real-time unusual event detection using multiple fixed location monitors,” Pattern Analysis and Machine Intelligence, IEEE Transactions on, vol. 30, no. 3, pp. 555–560, 2008. 2,
 
-### Project website:https://mhasa004.github.io/regularity.html
+## Project website:https://mhasa004.github.io/regularity.html
