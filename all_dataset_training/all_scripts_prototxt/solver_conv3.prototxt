@@ -1,0 +1,13 @@
+net: "train_conv3.prototxt"
+base_lr: 0.0001
+lr_policy: "fixed"
+gamma: 0.5
+stepsize: 10000
+display: 20
+max_iter: 200000
+weight_decay: 0.0005
+random_seed: 854
+snapshot: 10000
+snapshot_prefix: "models/conv_auto_all"
+solver_mode: GPU
+solver_type: ADAGRAD

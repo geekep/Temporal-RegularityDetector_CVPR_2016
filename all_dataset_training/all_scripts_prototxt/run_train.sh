@@ -1,0 +1,1 @@
+sudo /home/mhasan/_caffe/.build_release/tools/caffe train -solver solver_conv3.prototxt
