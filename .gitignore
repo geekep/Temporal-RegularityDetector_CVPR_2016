@@ -1,4 +1,6 @@
 *.h5
+.idea
+__pycache__
 all_dataset_training/all_datasets_10frames_3seqs/*
 all_dataset_testing/all_dataset_10frames_stride5/*
 all_dataset_testing/recon_costs/*
